@@ -7,7 +7,7 @@ Frontend:
 
 React (for building UI and game logic)
 
-CSS (for styling the game interface)
+Tailwind (for styling the game interface)
 
 🔐 Features
 
